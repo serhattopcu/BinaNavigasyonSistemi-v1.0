@@ -1,0 +1,42 @@
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Properties.Resources.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\bin\Debug\BinaNavigasyonSistemi.exe.config
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\bin\Debug\BinaNavigasyonSistemi.exe
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\bin\Debug\BinaNavigasyonSistemi.pdb
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\bin\Debug\af-ZA\BinaNavigasyonSistemi.resources.dll
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat1.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat2.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat3.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat_eksi1.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat_eksi2.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Zemin.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Menu.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Zemin.af-ZA.resources
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\af-ZA\BinaNavigasyonSistemi.resources.dll
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavi.308C8CC8.Up2Date
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.exe
+C:\Users\serha\Desktop\Projelerim\Bina İçi navigasyon sistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.pdb
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat1.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat2.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat3.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat_eksi1.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Kat_eksi2.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Zemin.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Menu.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Properties.Resources.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.Zemin.af-ZA.resources
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.exe
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavigasyonSistemi.pdb
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\bin\Debug\BinaNavigasyonSistemi.exe.config
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\bin\Debug\BinaNavigasyonSistemi.exe
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\bin\Debug\BinaNavigasyonSistemi.pdb
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\bin\Debug\af-ZA\BinaNavigasyonSistemi.resources.dll
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\af-ZA\BinaNavigasyonSistemi.resources.dll
+C:\Users\serha\Desktop\Projelerim\BinaNavigasyonSistemi\BinaNavigasyonSistemi\obj\Debug\BinaNavi.308C8CC8.Up2Date

@@ -1,0 +1,107 @@
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\bin\Debug\djk.exe.config
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\bin\Debug\djk.exe
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\bin\Debug\djk.pdb
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.csprojResolveAssemblyReference.cache
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Properties.Resources.resources
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.csproj.GenerateResource.Cache
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.exe
+c:\users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.pdb
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\bin\Debug\af-ZA\djk.resources.dll
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\af-ZA\djk.resources.dll
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Kat1.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Kat2.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Kat3.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Kat_eksi1.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Kat_eksi2.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Zemin.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Menu.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\djk\djk\obj\Debug\djk.Zemin.af-ZA.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe.config
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.pdb
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\af-ZA\djk.resources.dll
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.AssemblyReference.cache
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.SuggestedBindingRedirects.cache
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat1.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat2.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat3.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi1.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi2.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Menu.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Properties.Resources.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.af-ZA.resources
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.GenerateResource.cache
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CoreCompileInputs.cache
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\af-ZA\djk.resources.dll
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CopyComplete
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.exe
+D:\Öğrenim\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\af-ZA\djk.resources.dll
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.SuggestedBindingRedirects.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat2.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat3.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi2.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Menu.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.af-ZA.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\af-ZA\djk.resources.dll
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CopyComplete
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe.config
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\af-ZA\djk.resources.dll
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.AssemblyReference.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat2.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat3.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi1.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi2.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Menu.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Properties.Resources.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.af-ZA.resources
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.GenerateResource.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CoreCompileInputs.cache
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\af-ZA\djk.resources.dll
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.exe
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.pdb
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe.config
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.exe
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\djk.pdb
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\af-ZA\djk.resources.dll
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.AssemblyReference.cache
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.SuggestedBindingRedirects.cache
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat1.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat2.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat3.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi1.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Kat_eksi2.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Menu.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Properties.Resources.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.Zemin.af-ZA.resources
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.GenerateResource.cache
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CoreCompileInputs.cache
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\af-ZA\djk.resources.dll
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.CopyComplete
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.exe
+D:\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.pdb
+D:\Dijital Dünyam\Yazılım ve Tasarım Dosyalarım\--[ C# Programlama\Projelerim\Bina İçi navigasyon sistemi\djk teslim\djk\obj\Debug\djk.csproj.Up2Date
